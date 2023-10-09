@@ -1,22 +1,27 @@
 body {
     background-color: lavender;
+    text-align: center
 }
 h1 {
     font-family: helvetica;
-    
     text-transform: uppercase;
     letter-spacing: 0.2em;
-    text-shadow: 3px 3px skyblue
+    text-shadow: 3px 3px skyblue;
 }
 h2 {
     font-family: helvetica;
     text-transform: uppercase;
     letter-spacing: 0.2em;
 }
+
+}
 p {
     font-family: helvetica;
 }
-li {
+p.one {margin-left: 50px;
+}
+}
+dl {
     font-family: helvetica;
 }
 a:link {
@@ -43,9 +48,8 @@ a:hover {
               tr:nth-child(odd) {
   background-color: aliceblue;
 }
-ul: {
-    list-style-image: url("Star.png")
-}
-li {
+dt {
     margin: 10px 0px 0px 0px;
+    text-align: 
 }
+
