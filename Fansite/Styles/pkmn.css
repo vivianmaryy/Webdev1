@@ -1,0 +1,74 @@
+body {
+    background-color: lightblue;
+    background-image: url('pokeball.png');
+    text-align: center;
+}
+h1 {
+    font-family: 'impact'; 
+font-smooth: never;
+-webkit-font-smoothing : none;
+            text-align: center;
+            border: black 2px solid;
+            padding:10px;
+    border-style: double;
+    background-color: white;
+    letter-spacing: 0.4em;
+}
+.border-span {
+    
+font-family: 'Courier', monospace;
+font-smooth: never;
+-webkit-font-smoothing : none;
+            text-align: center;
+            border: black 2px solid;
+            padding:10px;
+    border-style: double;
+    background-color: white
+        }
+dl {
+    font-family: 'Courier', monospace;
+font-smooth: never;
+-webkit-font-smoothing : none;
+}
+ table, th, td {
+       font-family: 'Courier', monospace;
+font-smooth: never;
+-webkit-font-smoothing : none;
+  border: 1px solid black;
+  border-radius: 10px;
+  padding: 10px;
+     background-color: white;
+      }
+div {
+    height: 300px;
+    width: 500px;
+    background-color: white;
+    border-style: double;
+    margin: 0 auto;
+}
+.about {
+     font-family: 'Courier', monospace;
+font-smooth: never;
+-webkit-font-smoothing : none;
+    height: 75%;
+    width: 75%;
+    padding: 10px;
+     display:inline-block;
+}
+a {
+   font-family: 'Courier', monospace;
+font-smooth: never;
+-webkit-font-smoothing : none;
+}
+a:link {
+    color: mediumslateblue
+    text-decoration: none;
+}
+a:visited {
+    color: darkblue
+}
+a:hover {
+    color: white
+}
+a:hover {
+    font-style: italic
